@@ -29,7 +29,7 @@ const siteProps = {
   email: "park28525@gmail.com",
   gitHub: "seoharuss",
   instagram: "_yekni",
-  linkedIn: "Inki Park",
+  linkedIn: "inki-park",
   medium: "",
   twitter: "",
   youTube: "",
