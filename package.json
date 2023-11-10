@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://seoharuss.github.io/portfolio",
+  "homepage": "https://seoharuss.github.io/Portfolio",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://seoharuss.github.io/portfolio'",
+    "build-gh": "parcel build --public-url 'https://seoharuss.github.io/Portfolio'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
