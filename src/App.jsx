@@ -4,6 +4,7 @@
  * To contain application wide settings, routes, state, etc.
  */
 
+
 import React from "react";
 import Education from "./Components/Education";
 import About from "./Components/About";
