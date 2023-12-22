@@ -3,7 +3,7 @@
  *
  * To contain application wide settings, routes, state, etc.
  */
-
+import Education from "./Components/Education";
 import React from "react";
 
 import About from "./Components/About";
